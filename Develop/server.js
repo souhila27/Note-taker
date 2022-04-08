@@ -20,7 +20,7 @@ const createNewNote = function (body) {
 
 const deleteNote = function (id) {
 
-    notesData.splice(id - 1, 1);
+    notesData.splice(id-1, 1);
 
     fs.writeFileSync(
         path.join(__dirname, "./db/db.json"),
