@@ -15,8 +15,8 @@ SO THAT they  can organize their thoughts and keep track of tasks they need to c
 ## working page scrshots 
 
 <img src="./Screenshot 2.png">
-<img src="../Note-taker/Screenshot1.png">
-<img src="../Note-taker/Screenshot 3.png">
+<img src="./Screenshot1.png">
+<img src="./Screenshot 3.png">
 
 
 ## Website 
