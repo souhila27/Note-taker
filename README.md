@@ -16,6 +16,9 @@ SO THAT they  can organize their thoughts and keep track of tasks they need to c
 
 <img src="./Note-taker/Screenshot 2.png">
 <img src="./Note-taker/Screenshot1.png">
+<img src="./Note-taker/Screenshot 3.png">
+
+
 ## Website 
 
 https://vast-harbor-53981.herokuapp.com/
